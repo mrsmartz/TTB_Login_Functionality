@@ -6,6 +6,7 @@ Login failed - Password incorrect
 Login failed - Username not found
 
 ## Project Structure
+```
 ├── README.md
 ├── keywords
 │   ├── pages
@@ -25,7 +26,7 @@ Login failed - Username not found
 ├── testscript
 │   └── web
 │       └── ex2.robot
-
+```
 ## Prerequisites
 Ensure you have the following installed on your system:
 - Python 3.x
